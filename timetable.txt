@@ -1,7 +1,7 @@
 CS F372 L1;https://meet.google.com/ibq-wqsv-ecu;M W F;0900;1000
 BITS F463 L1;https://meet.google.com/ohv-pycr-rft;T Th S;0900;1000
 CS F213 L1;https://meet.google.com/cra-wsvx-ycf;M W F;1000;1100
-CS F213 P3;https://meet.google.com/awy-cbye-pkr;Th;1400;1600
+CS F213 P3;https://meet.google.com/awy-cbye-pkr;M;1400;1600
 EEE F341 T2;https://meet.google.com/odu-tgxo-nui;T;0800;0900
 EEE F341 L2;https://meet.google.com/oby-uzhp-ire;T Th S;1100;1200
 EEE F341 P5;https://meet.google.com/cou-eyug-xkg;Th;1700;1900
