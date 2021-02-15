@@ -15,7 +15,7 @@ def checkClass():
 
     for course in classes:
         details = course.split(';')
-        if(int(TIME) > int(details[3]) and int(TIME) < int(details[4])):
+        if(int(TIME) >= int(details[3]) and int(TIME) <= int(details[4])):
             class_days = details[2].split(' ')
             for day in class_days:
                 if(daysOfWeek[day] == DAY):
@@ -30,6 +30,6 @@ def loopTill(endTime):
         now = datetime.now()
         TIME = now.strftime("%H%M")
 
-        if(int(TIME) > int(endTime)):
+        if(int(TIME) >= int(endTime)):
             isClassOver = True
     return
